@@ -2,7 +2,7 @@
   "name": "community-marketing-manager",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://allready237.github.io/Community_Marketing_Manager/",
+  "homepage": "https://Allready237.github.io/Community_Marketing_Manager/",
   "type": "module",
   "scripts": {
     "dev": "vite",
